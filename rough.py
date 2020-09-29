@@ -1,0 +1,2 @@
+s = "COMMAND = 'AUTHORIZATION' merchant_identifier = 'CycHZxVj' access_code = 'zx0IPmPy5jp1vAz8Kpg7' merchant_reference = 'XYZ9239-yu898' currency = 'AED' language = 'en' customer_email = 'test@payfort.com' order_description = 'iPhone 6-S'"
+print(s.upper())
